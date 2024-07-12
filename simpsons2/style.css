@@ -60,7 +60,7 @@ footer{
 }
 
 .wrapper {
-    width: 80%; 
+    width: 70%; 
     margin:  auto;
     }
 
@@ -81,6 +81,15 @@ main {
 
 ul{
     display: flex;
+    align-items: center;
     gap: 40px;
 }
 
+.cat {
+    max-width: 200px;
+    max-height: 200px;
+}
+
+.cat2 {
+    max-width: 200px;
+}
