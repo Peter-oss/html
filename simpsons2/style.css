@@ -36,22 +36,22 @@ nav{
     width: 100%;
     padding: 1em;
     text-align: center;
-    ul{
-        display: inline-block;
     }
-}
 
 aside{ 
     background-color: blue;
     width: 20%;
-    padding: 1em;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: justify;
 }
 
 article{
     
-    background-color: white; /*fond boite article en blanc*/
+    /*fond boite article en blanc*/
     width: 80%;
     padding: 2em;
+    height: 200px;
 }
 
 footer{
@@ -76,8 +76,11 @@ text-justify: inter-word;}
 
 main {
     display: flex;
+    background-color: white;
   }
 
-
-
+ul{
+    display: flex;
+    gap: 40px;
+}
 
