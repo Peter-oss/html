@@ -1,2 +1,1 @@
-Ceci est un test
-Il s'agit de se familiariser avec Git
+Decouverte construction page web, balises, organisation, etc
