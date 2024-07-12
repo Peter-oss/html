@@ -51,12 +51,17 @@ article{
     /*fond boite article en blanc*/
     width: 100%;
     padding: 2em;
-    height: 200px;
+   
 }
 
 footer{
     background-color: darkblue;
     text-align: center;
+}
+
+header>figure{
+    height: 600px;
+    overflow: hidden;
 }
 
 .wrapper {
@@ -66,7 +71,7 @@ footer{
 
 .main-img {
     width: 100%;
-    height: 500px;
+  
 } 
 
 .box3 {width: 20%;} 
@@ -87,11 +92,12 @@ ul{
 }
 
 .cat {
-    width: 250px;
+    width: 29%;
     height: 150px;
     object-fit: cover;
-    margin-left: 30px;
-    margin-top: 35px;
+    margin-left: 25px;
+    margin-top: 10px;
+    margin-bottom: 10px;
     }
 
 .cat2 {
