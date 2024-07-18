@@ -2,7 +2,7 @@
 *{
     padding:0;
     margin:0;
-    box-sizing: border-box;
+    box-sizing: border-box; /*remise à zéro affichage page web*/
 }
 
 body{
@@ -19,7 +19,7 @@ h1{
 }
 
 h2{
-    color: goldenrod /*titre h2 en bleu ciel*/
+    color: goldenrod /*coloration titre h2 en bleu ciel*/
 }
 
 h3{
@@ -34,8 +34,6 @@ color: rgb(248, 248, 244); /*paragraphe en beige*/
 nav{
     background-color: blue;
     width: 100%;
-    padding: 1em;
-    text-align: center;
     }
 
 aside{ 
@@ -85,10 +83,9 @@ main {
     }
 
 ul{
-    display: flex;
+    display: flex; /*présentation menu navigation intra page web*/
     align-items: center;
-    gap: 40px;
-    margin-left: 25%;
+    /*margin-left: 25%;*/
 }
 
 .cat {
@@ -102,4 +99,8 @@ ul{
 
 .cat2 {
     width: 200px;
+}
+
+.nolist {
+	list-style-type: none;
 }
