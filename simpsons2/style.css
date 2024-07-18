@@ -116,9 +116,15 @@ ul{
 and (max-device-width : 500px) {
 body {
     background-color: blue;
-nav {
     flex-direction: column;
+nav{
     align-items: left;
+    gap: 0;
+    margin: 0;
+    padding: 0;
+}
+header{
+    flex-direction: column;
 }
 }
 }
