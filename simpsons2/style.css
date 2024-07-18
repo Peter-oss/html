@@ -19,7 +19,8 @@ h1{
 }
 
 h2{
-    color: goldenrod /*coloration titre h2 en bleu ciel*/
+    color: goldenrod;
+    margin-bottom: 20px;
 }
 
 h3{
