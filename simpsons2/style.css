@@ -113,9 +113,14 @@ ul{
 
 /* Smartphones (portrait and landscape) ----------- */
 @media only screen
-and (min-device-width : 320px)
-and (max-device-width : 480px) {
-/* Styles */
+and (max-device-width : 500px) {
+body {
+    background-color: blue;
+nav {
+    flex-direction: column;
+    align-items: left;
+}
+}
 }
 /* Smartphones (landscape) ----------- */
 @media only screen
