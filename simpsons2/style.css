@@ -110,3 +110,11 @@ ul{
 .nolist {
 	list-style-type: none;
 }
+
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen
+and (max-device-width : 500px) {
+body{
+    background-color: rgb(244, 240, 240);
+}
+}
