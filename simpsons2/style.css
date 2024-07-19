@@ -113,14 +113,26 @@ ul{
 
 /* Smartphones (portrait and landscape) ----------- */
 @media only screen and (max-device-width: 500px){
-.body{
-    background-color: rgba(6, 1, 22, 0);
-    flex-direction:column;
+body{
+    background-color: rgba(52, 7, 200, 0);
+    display: flex;
+    align-items: column;
 }
-.nav{
-    background-color: rgb(255, 0, 0);
-    width: 100%;
-    padding: 0;
-    flex-direction:column
+/* largeur du wrapper 100%
+mettre la nav en colonne 
+article et aside un en dessous de l'autre */
+nav{
+    background-color: blue;
+    width: 20%;
+    padding: 1em;
+    text-align: center;
     }
+wrapper{
+    width: 100%;
+    margin: 0%;
+}
+main{
+    width: 100%;
+    margin: 0%;
+   }
 }
