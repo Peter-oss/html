@@ -118,7 +118,7 @@ body{
     flex-direction:column;
 }
 nav{
-    background-color: blue;
+    background-color: rgb(255, 0, 0);
     width: 100%;
     padding: 0;
     flex-direction:column
