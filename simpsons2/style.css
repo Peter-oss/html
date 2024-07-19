@@ -112,12 +112,12 @@ ul{
 }
 
 /* Smartphones (portrait and landscape) ----------- */
-@media only screen and (min-device-width : 320) and (max-device-width : 500px) {
-body{
+@media only screen and (max-device-width: 500px){
+.body{
     background-color: rgba(6, 1, 22, 0);
     flex-direction:column;
 }
-nav{
+.nav{
     background-color: rgb(255, 0, 0);
     width: 100%;
     padding: 0;
