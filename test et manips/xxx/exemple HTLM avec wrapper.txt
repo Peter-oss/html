@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Page Web avec Wrapper</title>
-    <style> */à placer dabs style.css */
+    <style> /*à placer dans style.css */
         .wrapper {
             max-width: 1200px;
             margin: 0 auto;
