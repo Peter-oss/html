@@ -1,0 +1,41 @@
+[07:31] Stephane SMAIL - Elan Formation
+Bonjour, vous êtes aujourd'hui avec Cathy BURGLIN - Elan Formation afin de travailler sur une demande client d'un site HTML/CSS d'un client réel.  Je vous propose de travailler en plusieurs étapes :
+1.Comprendre le Projet (lundi matin)
+•	Réunion de lancement : Organisez une réunion avec les élèves en vente pour comprendre leurs attentes, le type de magasin, les produits à mettre en avant, et les fonctionnalités souhaitées pour le site vitrine.
+•	Collecte des besoins : Prenez des notes détaillées sur les besoins des élèves en vente (clients). Posez des questions sur le style, les couleurs, les images, les textes, et toute autre information pertinente.
+2. Planification et Conception (lundi après-midi)
+•	Recherche et inspiration : Regardez des exemples de sites vitrines similaires pour vous inspirer. Notez les éléments de design que vous trouvez attractifs et fonctionnels.
+•	Wireframes : Dessinez des esquisses (wireframes) des différentes pages du site (par exemple, la page d'accueil, la page des produits, la page de contact). Utilisez des outils comme Figma ou simplement du papier et un crayon.
+•	Moodboard : Créez un moodboard avec des couleurs, des polices, et des images pour définir le style visuel du site.
+3. Configuration du Projet (de lundi à mercredi)
+•	Structure des fichiers : Créez une structure de dossiers organisée pour votre projet (par exemple, avec des dossiers pour les images, les fichiers CSS, et les fichiers HTML).
+•	Initialisation du projet : Créez les fichiers HTML de base (index.html, produits.html, contact.html, etc.) et un fichier CSS principal (style.css).
+4. Développement
+•	Mise en page HTML : Commencez par coder la structure HTML des pages en suivant les wireframes créés. 
+o	Header : Logo, menu de navigation.
+o	Main content : Section d'accueil, sections pour les produits, informations sur le magasin.
+o	Footer : Informations de contact, liens vers les réseaux sociaux.
+•	Styling CSS : Appliquez des styles aux éléments HTML en utilisant le fichier CSS. 
+o	Typographie : Définir les polices, tailles de texte, couleurs.
+o	Mise en page : Utilisez Flexbox ou Grid pour créer des mises en page réactives.
+o	Styles de composants : Boutons, cartes de produits, formulaires de contact.
+5. Interaction et Feedback
+•	Revue intermédiaire : Présentez une première version du site aux élèves en vente pour recueillir leurs feedbacks.
+•	Modifications : Apportez les modifications nécessaires en fonction des commentaires reçus.
+6. Finalisation
+•	Test et validation : Testez le site sur différents navigateurs et appareils pour vérifier sa compatibilité et sa réactivité.
+•	Optimisation : Optimisez les images, nettoyez le code, et assurez-vous que le site est performant.
+7. Livraison (mercredi après-midi)
+•	Présentation finale : Organisez une présentation finale où les élèves en vente peuvent voir le produit fini et donner leurs impressions.
+•	Documentation : Rédigez une documentation simple expliquant comment le site est structuré et comment effectuer des modifications de base.
+Outils Recommandés :
+•	Éditeur de code : Visual Studio Code, Sublime Text.
+•	Outils de conception : Figma, Adobe XD (pour wireframes et moodboards).
+wink 1 like 1
+ 
+[07:31] 
+Stephane SMAIL - Elan Formation a remplacé le nom du groupe par Team Elan Shop. 
+ 
+[07:45] 
+Stephane SMAIL - Elan Formation a modifié l’image du profil de groupe. 
+ 

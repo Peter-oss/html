@@ -1,0 +1,42 @@
+body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            background-color: #f0f0f0;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1, h2, h3 {
+            color: #fc0808;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .sub-section {
+            margin-left: 20px;
+        }
+        .section-title {
+            border-bottom: 2px solid #333;
+            padding-bottom: 5px;
+        }
+        .contact-info {
+            margin-bottom: 10px;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+        .education-item, .experience-item, .skill-item, .language-item {
+            margin-bottom: 15px;
+        }
+        ul {
+            margin: 5px 0 15px 20px;
+        }
+        li {
+            margin-bottom: 5px;
+        }
