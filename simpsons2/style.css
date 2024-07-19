@@ -115,6 +115,6 @@ ul{
 @media only screen
 and (max-device-width : 500px) {
 body{
-    background-color: rgb(244, 240, 240);
+    background-color: rgba(6, 1, 22, 0);
 }
 }
