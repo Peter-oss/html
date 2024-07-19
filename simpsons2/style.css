@@ -112,9 +112,15 @@ ul{
 }
 
 /* Smartphones (portrait and landscape) ----------- */
-@media only screen
-and (max-device-width : 500px) {
+@media only screen and (min-device-width : 320) and (max-device-width : 500px) {
 body{
     background-color: rgba(6, 1, 22, 0);
+    flex-direction:column;
 }
+nav{
+    background-color: blue;
+    width: 100%;
+    padding: 0;
+    flex-direction:column
+    }
 }
